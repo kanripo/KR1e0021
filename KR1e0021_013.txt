@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋權衡
-#+DATE: 2015-09-23 09:39:26
-#+PROPERTY: JUAN 13
+#+DATE: 2015-08-24 22:13:01.484868
+#+PROPERTY: ID KR1e0021
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十三
 <pb:KR1e0021_WYG_013-1a>¶
 欽定四庫全書¶
 　春秋權衡卷十三　　　　宋　劉敞　撰¶
@@ -326,4 +328,3 @@
 　¶
 　¶
 　春秋權衡卷十三¶
-
